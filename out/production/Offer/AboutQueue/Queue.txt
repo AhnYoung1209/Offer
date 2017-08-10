@@ -1,10 +1,20 @@
 队列:
+ADT：Abstract Data Type,抽象数据类型
 一、实现队列的两种方式：
     1、数组
+   （1）数据成员
+         1）实现ADT的类定义
+         2）确定需要的数据成员
+         3）数组来存储队列；
+            变量queueFront和queueRear来跟踪队列的头元素和尾元素；
+            变量maxQueueSize来指定队列的大小；
+         -----因此，至少要4个数据成员
+   （2）操作问题（重点）
+
     2、链表
 二、定义
     队列是一组同类型的元素集合，它只能在一端添加元素，这一端称为back或rear，而元素的删除只能在另一端进行，
-这一端称为front或first。
+这一端称为front或first。（队尾添加元素，队头删除元素）
 三、队列操作
     1、initializeQueue：初始化为空
     2、isEmptyQueue：确定队列是否为空，为空返回true；否则返回false
