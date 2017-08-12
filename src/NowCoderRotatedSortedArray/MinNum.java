@@ -1,4 +1,4 @@
-package RotatedSortedArray;
+package NowCoderRotatedSortedArray;
 
 import static java.lang.System.out;
 
