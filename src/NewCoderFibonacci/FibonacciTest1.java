@@ -1,5 +1,7 @@
 package NewCoderFibonacci;
 
+import static java.lang.System.out;
+
 /**
  * Created by BoGummyYoung on 2017/8/12.
  * FibonacciTest类中的递归方法容易导致Stack Overflow异常
@@ -22,5 +24,11 @@ public class FibonacciTest1 {
             curNum = result;
         }
         return result;
+    }
+    public static void main(String[] args)
+    {
+        FibonacciTest1 fibonacciTest1 = new FibonacciTest1();
+        int result = fibonacciTest1.Fibonacci(4);
+        out.println(result);
     }
 }
