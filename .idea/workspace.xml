@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c58d9b-0ef7-43d1-918c-491896351487" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderRectangle/CoverNum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Offer/HUAWEItest/IsSame.class" afterPath="$PROJECT_DIR$/out/production/Offer/HUAWEItest/IsSame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderNumberOf1/CountNum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,12 +66,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoverNum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CoverNum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewCoderRectangle/CoverNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
               <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountNum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderNumberOf1/CountNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/MaxSubList/MaxSubSum.java" />
         <option value="$PROJECT_DIR$/src/HUAWEItest/IsSame.java" />
         <option value="$PROJECT_DIR$/src/NewCoderRectangle/CoverNum.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderNumberOf1/CountNum.java" />
       </list>
     </option>
   </component>
@@ -137,9 +149,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-36" />
-    <option name="y" value="7" />
-    <option name="width" value="1154" />
+    <option name="x" value="373" />
+    <option name="y" value="89" />
+    <option name="width" value="860" />
     <option name="height" value="644" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -198,7 +210,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NewCoderRectangle" />
+              <option name="myItemId" value="NewCoderNumberOf1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -724,12 +736,12 @@
       <workItem from="1502871495374" duration="3275000" />
       <workItem from="1502879593938" duration="8305000" />
       <workItem from="1502926199692" duration="129000" />
-      <workItem from="1503037145796" duration="1750000" />
+      <workItem from="1503037145796" duration="4779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33186000" />
+    <option name="totallyTimeSpent" value="36215000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -741,7 +753,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-36" y="7" width="1154" height="644" extended-state="1" />
+    <frame x="373" y="89" width="860" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -759,7 +771,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25571176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34478673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -790,7 +802,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/AYJDK/JDK8/src.zip!/java/lang/Throwable.java" />
     <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1010,6 +1021,16 @@
         <state relative-caret-position="312">
           <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderNumberOf1/CountNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
