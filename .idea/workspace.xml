@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55c58d9b-0ef7-43d1-918c-491896351487" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HUAWEIFate/FateBG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HUAWEItest/IsSame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HUAWEItest/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Offer/MaxSubList/MaxSubSum.class" afterPath="$PROJECT_DIR$/out/production/Offer/MaxSubList/MaxSubSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MaxSubList/MaxSubSum.java" afterPath="$PROJECT_DIR$/src/MaxSubList/MaxSubSum.java" />
-    </list>
+    <list default="true" id="55c58d9b-0ef7-43d1-918c-491896351487" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -676,12 +669,12 @@
       <workItem from="1502871495374" duration="3275000" />
       <workItem from="1502879593938" duration="8305000" />
       <workItem from="1502926199692" duration="129000" />
-      <workItem from="1503037145796" duration="1110000" />
+      <workItem from="1503037145796" duration="1112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32546000" />
+    <option name="totallyTimeSpent" value="32548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,7 +686,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="71" width="1221" height="644" extended-state="1" />
+    <frame x="97" y="71" width="1221" height="644" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
