@@ -16,8 +16,6 @@ class ListNode{
         }
 public class KhtInLL
 {
-    ListNode head;
-    ListNode current;
     public ListNode FindKthToTail(ListNode head, int k)
     {
         if (head == null || k == 0)
@@ -43,26 +41,22 @@ public class KhtInLL
         return cur;
     }
 
-    public void addInfo(int info)
-    {
-        if (head == null){
-            head = new ListNode(info);
-            current = head;
-        }
-        else{
-            current.next = new ListNode(info);
-            current = current.next;
-        }
-    }
     //test
     public static void main(String[] args)
     {
         KhtInLL myList = new KhtInLL();
-        for (int i = 0; i <= 5; i++)
-        {
-            myList.addInfo(i);
-        }
-        myList.FindKthToTail(myList.head,2);
+        ListNode head = null;
+        head.val = 1;
+        head.next.val = 2;
+        head.next.next.val =3;
+        head.next.next.next.val = 4;
+//        ListNode cur = head;
+//        for (int i = 0 ; i < 6; i++)
+//        {
+//            cur.val = i;
+//            cur = cur.next;
+//        }
+        myList.FindKthToTail(head,2);
     }
 }
 
