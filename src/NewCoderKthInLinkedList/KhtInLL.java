@@ -1,5 +1,7 @@
 package NewCoderKthInLinkedList;
 
+import static java.lang.System.out;
+
 /**
  * Created by BoGummyYoung on 2017/8/24.
  * 输入一个链表，输出该链表中倒数第k个结点。
@@ -45,18 +47,24 @@ public class KhtInLL
     public static void main(String[] args)
     {
         KhtInLL myList = new KhtInLL();
-        ListNode head = null;
-        head.val = 1;
-        head.next.val = 2;
-        head.next.next.val =3;
-        head.next.next.next.val = 4;
+//        ListNode head = null;
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(4);
+        head.next.next.next.next = new ListNode(5);
+        head.next.next.next.next.next = new ListNode(6);
+//        head.next.val = 2;
+//        head.next.next.val =3;
+//        head.next.next.next.val = 4;
 //        ListNode cur = head;
 //        for (int i = 0 ; i < 6; i++)
 //        {
 //            cur.val = i;
 //            cur = cur.next;
 //        }
-        myList.FindKthToTail(head,2);
+        ListNode node = myList.FindKthToTail(head,2);
+        out.println(node.val);
     }
 }
 
