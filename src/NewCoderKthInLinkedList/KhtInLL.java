@@ -22,7 +22,7 @@ public class KhtInLL
     {
         if (head == null || k == 0)
         {
-            return null;
+            return null;//链表为空
         }//robust
         ListNode cur = head;
         ListNode pre = head;
@@ -33,7 +33,7 @@ public class KhtInLL
                 pre = pre.next;
             }
             else
-                return null;
+                return null;//链表节点数小于k
         }
         while (pre.next != null)
         {

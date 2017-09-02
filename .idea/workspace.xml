@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c58d9b-0ef7-43d1-918c-491896351487" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Ali/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Ali/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Ali/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Ali/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderReverseList/ReverseList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ali/Main3.java" afterPath="$PROJECT_DIR$/src/Ali/Main3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java" afterPath="$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,14 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KhtInLL.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KhtInLL.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="60" column="4" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="287">
+              <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
               <folding>
-                <marker date="1503556518673" expanded="true" signature="1590:1598" ph="{...}" />
+                <marker date="1504318287804" expanded="true" signature="1606:1614" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderReverseList/ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,13 +98,14 @@
         <option value="$PROJECT_DIR$/src/NewCoderNumberOf1/CountNum.java" />
         <option value="$PROJECT_DIR$/src/NewCoderChangeOdd/ChangeOdd.java" />
         <option value="$PROJECT_DIR$/src/NewCoderChangeOdd/ChangeOdd1.java" />
-        <option value="$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java" />
         <option value="$PROJECT_DIR$/src/JustTest/ScannerTest.java" />
         <option value="$PROJECT_DIR$/src/Ali/Test.java" />
         <option value="$PROJECT_DIR$/src/Ali/Main.java" />
         <option value="$PROJECT_DIR$/src/Ali/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Ali/Main3.java" />
         <option value="$PROJECT_DIR$/src/MeiTuan/Main.java" />
+        <option value="$PROJECT_DIR$/src/Ali/Main3.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderReverseList/ReverseList.java" />
       </list>
     </option>
   </component>
@@ -106,8 +116,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="428" />
-    <option name="y" value="35" />
+    <option name="x" value="70" />
+    <option name="y" value="96" />
     <option name="width" value="1310" />
     <option name="height" value="991" />
   </component>
@@ -153,6 +163,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewCoderReverseList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -179,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest">
+  <component name="RunManager" selected="Application.KhtInLL">
     <configuration default="false" name="CountNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -662,8 +690,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScannerTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KhtInLL" />
+        <item index="0" class="java.lang.String" itemvalue="Application.KhtInLL" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ScannerTest" />
         <item index="2" class="java.lang.String" itemvalue="Application.ChangeOdd1" />
         <item index="3" class="java.lang.String" itemvalue="Application.ChangeOdd" />
         <item index="4" class="java.lang.String" itemvalue="Application.CountNum" />
@@ -692,12 +720,12 @@
       <workItem from="1502926199692" duration="129000" />
       <workItem from="1503037145796" duration="4779000" />
       <workItem from="1503556368680" duration="3189000" />
-      <workItem from="1504317809494" duration="158000" />
+      <workItem from="1504317809494" duration="1541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39562000" />
+    <option name="totallyTimeSpent" value="40945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -709,12 +737,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="428" y="35" width="1310" height="991" extended-state="0" />
-    <editor active="false" />
+    <frame x="70" y="96" width="1310" height="991" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32788798" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,7 +755,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -738,7 +767,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -758,13 +786,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PrintLikedList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/Traverse.java" />
     <entry file="jar://D:/AYJDK/JDK8/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/PrintLikedList/Solution.java">
@@ -914,13 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ali/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JustTest/ScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -956,16 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="60" column="4" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="71" selection-end-column="0" />
-          <folding>
-            <marker date="1503556518673" expanded="true" signature="1590:1598" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxSubList/MaxSubSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -978,6 +982,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ali/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1260#0" expanded="true" />
+            <marker date="1504318249431" expanded="false" signature="379:394" ph="&lt;~&gt;" />
+            <marker date="1504318249431" expanded="false" signature="442:451" ph="&lt;~&gt;" />
+            <marker date="1504318249431" expanded="false" signature="990:999" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderKthInLinkedList/KhtInLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding>
+            <marker date="1504318287804" expanded="true" signature="1606:1614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderReverseList/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>
